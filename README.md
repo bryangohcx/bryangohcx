@@ -1,4 +1,4 @@
-##HI RYAN help me to debug thku
+##HI RYAN help me to debug thku:
 
 # 💫 About Me:
 I am very cool.
