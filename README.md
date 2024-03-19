@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning more about CS i am not actually a CS student i just do it for fun
+I am very cool
 
 
 ## 🌐 Socials:
