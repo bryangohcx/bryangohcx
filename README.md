@@ -1,8 +1,5 @@
 # 💫 About Me:
 I am very cool
-# 💫 About Me:
-I am currently learning more about CS i am not actually a CS student i just do it for fun
-
 
 <!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryangohcx) -->
