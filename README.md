@@ -1,5 +1,7 @@
+##HI RYAN help me to debug thku
+
 # 💫 About Me:
-I am very cool
+I am very cool.
 
 <!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryangohcx) -->
