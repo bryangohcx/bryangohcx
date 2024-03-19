@@ -1,4 +1,4 @@
-# 💻Hi ryan help debug thku
+# Hi ryan help debug thku!!!
 
 # 💫 About Me:
 I am cooler than Ryan.
