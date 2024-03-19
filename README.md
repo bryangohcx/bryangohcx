@@ -1,5 +1,5 @@
 # Hi Ryan help debug thku!!!
-[Instagram](https://github.com/bryangohcx/CS2040/blob/main/almostunionfind.java)
+[Not some shady ass link](https://github.com/bryangohcx/CS2040/blob/main/almostunionfind.java)
 
 # 💫 About Me:
 I am cooler than Ryan.
