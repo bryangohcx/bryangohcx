@@ -1,6 +1,8 @@
 # Hi Ryan help debug thku!!!
 [Not some shady ass link](https://github.com/bryangohcx/CS2040/blob/main/almostunionfind.java)  
+<!---
 [Not another shady link](https://github.com/bryangohcx/CS2040/blob/main/kattisquest.java)
+-->
 
 # 💫 About Me:
 I am cooler than Ryan.
