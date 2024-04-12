@@ -24,6 +24,8 @@ I am cooler than Ryan.
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+<img src ='https://github.com/bryangohcx/Kattis-Answers/blob/main/resources/pokemon-funny-anime-pichu-butt-slap-1ofphbqkmajq6ppn.gif'>
+
 ---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bryangohcx&label=Profile%20Views&color=4&icon=0&pretty=true" />
